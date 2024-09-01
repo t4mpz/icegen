@@ -1,0 +1,11 @@
+a.out
+.vscode
+test.e
+test-model
+test-model.jpeg
+camadas.txt
+.vscode
+images
+out/*
+iceberg-generator
+tests/rendered.test.png
